@@ -1,2 +1,2 @@
 # Test
-Test Python Repository
+GIThub learning purpose
